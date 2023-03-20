@@ -17,5 +17,8 @@ Spent about an hour watching both videos for developing a Word Press website
 
 ## Content Insights
 
+During this week the biggest insight I got was during the group interviews, I used the interviews as a chance to get some personal insight into their work ethic and personality. To see if we would work together well, I was happy to see that there were people who shared similar values and had complementary personalities to myself.
 
 ## Career/Employability/Learning Insights
+
+This week the group interview was very insightful into what it takes to work together as a team and how different personaily types and work ethic could negativly impact your work. Using these group interview I now have a greater understanding of my fellow students.
