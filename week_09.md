@@ -51,7 +51,7 @@ Based of this experiment and my personal experience using both methods I'm more 
 
 ## Questions and answers
 
-## Errors and Exceptions
+## Errors and Exceptions Questions
 
 1. What is the difference between an error and an exception in PHP?
 2. What function is used to set a custom error handler in PHP?
@@ -64,7 +64,7 @@ Based of this experiment and my personal experience using both methods I'm more 
 9. How can you re-throw an exception after catching it?
 10. What is the purpose of the finally block in exception handling?
 
-## Templating
+## Templating Questions
 
 1. What is the purpose of using a templating engine in PHP?
 2. Name a popular PHP templating engine.
@@ -77,7 +77,7 @@ Based of this experiment and my personal experience using both methods I'm more 
 9. In the Blade templating engine, what is the syntax for defining a section?
 10. How can you pass data to a template in the Twig templating engine?
 
-## Errors and Exceptions
+## Errors and Exceptions Answers
 
 1. Errors are issues in the script that cannot be handled at runtime, while exceptions are events that occur during the execution of the script and can be handled 2. using exception handling techniques.
 2. The set_error_handler() function is used to set a custom error handler in PHP.
@@ -90,7 +90,7 @@ Based of this experiment and my personal experience using both methods I'm more 
 9. To re-throw an exception after catching it, use the throw keyword followed by the caught exception variable.
 10. The finally block is used to execute code regardless of whether an exception has been thrown or not. It is executed after the try and catch blocks.
 
-## Templating
+## Templating Answers
 
 1. The purpose of using a templating engine in PHP is to separate presentation logic from business logic, making it easier to maintain and create clean, readable code.
 2. A popular PHP templating engine is Twig.
